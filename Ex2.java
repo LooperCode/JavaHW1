@@ -6,7 +6,7 @@ public class Ex2 {
 
     private static void  getPrime(int n) {
 
-        for (int i = 1; i <= n; i++) {
+        for (int i = 2; i <= n; i++) {
             boolean isPrime = true;
             for (int j = 2; j <= Math.floor(Math.sqrt(i)); j++) { 
                 if ((i % j) == 0) { 
