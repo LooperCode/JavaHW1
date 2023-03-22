@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-03-14T19:53:32.440492Z</date>
+  <millis>1678823612440</millis>
+  <nanos>492000</nanos>
+  <sequence>0</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 31, 6, 12, 15, 22, 5, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.446874Z</date>
+  <millis>1678823612446</millis>
+  <nanos>874000</nanos>
+  <sequence>1</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 31, 12, 15, 22, 5, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.447223Z</date>
+  <millis>1678823612447</millis>
+  <nanos>223000</nanos>
+  <sequence>2</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 31, 15, 22, 5, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.447559Z</date>
+  <millis>1678823612447</millis>
+  <nanos>559000</nanos>
+  <sequence>3</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 31, 22, 5, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.447892Z</date>
+  <millis>1678823612447</millis>
+  <nanos>892000</nanos>
+  <sequence>4</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 22, 31, 5, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.448201Z</date>
+  <millis>1678823612448</millis>
+  <nanos>201000</nanos>
+  <sequence>5</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 22, 5, 31, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.448493Z</date>
+  <millis>1678823612448</millis>
+  <nanos>493000</nanos>
+  <sequence>6</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 22, 5, 31, 51, 2, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.448823Z</date>
+  <millis>1678823612448</millis>
+  <nanos>823000</nanos>
+  <sequence>7</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 22, 5, 31, 2, 51, 34]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.449155Z</date>
+  <millis>1678823612449</millis>
+  <nanos>155000</nanos>
+  <sequence>8</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[23, 6, 12, 15, 22, 5, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.449485Z</date>
+  <millis>1678823612449</millis>
+  <nanos>485000</nanos>
+  <sequence>9</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 23, 12, 15, 22, 5, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.449756Z</date>
+  <millis>1678823612449</millis>
+  <nanos>756000</nanos>
+  <sequence>10</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 23, 15, 22, 5, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.450023Z</date>
+  <millis>1678823612450</millis>
+  <nanos>23000</nanos>
+  <sequence>11</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 23, 22, 5, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.450372Z</date>
+  <millis>1678823612450</millis>
+  <nanos>372000</nanos>
+  <sequence>12</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 23, 5, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.450656Z</date>
+  <millis>1678823612450</millis>
+  <nanos>656000</nanos>
+  <sequence>13</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.450913Z</date>
+  <millis>1678823612450</millis>
+  <nanos>913000</nanos>
+  <sequence>14</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 31, 2, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.451193Z</date>
+  <millis>1678823612451</millis>
+  <nanos>193000</nanos>
+  <sequence>15</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.451454Z</date>
+  <millis>1678823612451</millis>
+  <nanos>454000</nanos>
+  <sequence>16</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.451716Z</date>
+  <millis>1678823612451</millis>
+  <nanos>716000</nanos>
+  <sequence>17</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.451966Z</date>
+  <millis>1678823612451</millis>
+  <nanos>966000</nanos>
+  <sequence>18</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.452203Z</date>
+  <millis>1678823612452</millis>
+  <nanos>203000</nanos>
+  <sequence>19</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 22, 5, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.452456Z</date>
+  <millis>1678823612452</millis>
+  <nanos>456000</nanos>
+  <sequence>20</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.452722Z</date>
+  <millis>1678823612452</millis>
+  <nanos>722000</nanos>
+  <sequence>21</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 23, 2, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.452952Z</date>
+  <millis>1678823612452</millis>
+  <nanos>952000</nanos>
+  <sequence>22</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.453191Z</date>
+  <millis>1678823612453</millis>
+  <nanos>191000</nanos>
+  <sequence>23</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.453423Z</date>
+  <millis>1678823612453</millis>
+  <nanos>423000</nanos>
+  <sequence>24</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.453659Z</date>
+  <millis>1678823612453</millis>
+  <nanos>659000</nanos>
+  <sequence>25</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 15, 5, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.453913Z</date>
+  <millis>1678823612453</millis>
+  <nanos>913000</nanos>
+  <sequence>26</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 5, 15, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.454128Z</date>
+  <millis>1678823612454</millis>
+  <nanos>128000</nanos>
+  <sequence>27</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 5, 15, 22, 2, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.454365Z</date>
+  <millis>1678823612454</millis>
+  <nanos>365000</nanos>
+  <sequence>28</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 5, 15, 2, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.454586Z</date>
+  <millis>1678823612454</millis>
+  <nanos>586000</nanos>
+  <sequence>29</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 5, 15, 2, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.454805Z</date>
+  <millis>1678823612454</millis>
+  <nanos>805000</nanos>
+  <sequence>30</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 12, 5, 15, 2, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.455017Z</date>
+  <millis>1678823612455</millis>
+  <nanos>17000</nanos>
+  <sequence>31</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 5, 12, 15, 2, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.455280Z</date>
+  <millis>1678823612455</millis>
+  <nanos>280000</nanos>
+  <sequence>32</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 5, 12, 15, 2, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.455513Z</date>
+  <millis>1678823612455</millis>
+  <nanos>513000</nanos>
+  <sequence>33</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 5, 12, 2, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.455736Z</date>
+  <millis>1678823612455</millis>
+  <nanos>736000</nanos>
+  <sequence>34</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[6, 5, 12, 2, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.455958Z</date>
+  <millis>1678823612455</millis>
+  <nanos>958000</nanos>
+  <sequence>35</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 6, 12, 2, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.456169Z</date>
+  <millis>1678823612456</millis>
+  <nanos>169000</nanos>
+  <sequence>36</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 6, 12, 2, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.456390Z</date>
+  <millis>1678823612456</millis>
+  <nanos>390000</nanos>
+  <sequence>37</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 6, 2, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.456588Z</date>
+  <millis>1678823612456</millis>
+  <nanos>588000</nanos>
+  <sequence>38</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 6, 2, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.456784Z</date>
+  <millis>1678823612456</millis>
+  <nanos>784000</nanos>
+  <sequence>39</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 6, 2, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.457009Z</date>
+  <millis>1678823612457</millis>
+  <nanos>9000</nanos>
+  <sequence>40</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 2, 6, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.457207Z</date>
+  <millis>1678823612457</millis>
+  <nanos>207000</nanos>
+  <sequence>41</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[5, 2, 6, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.457427Z</date>
+  <millis>1678823612457</millis>
+  <nanos>427000</nanos>
+  <sequence>42</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 5, 6, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.457634Z</date>
+  <millis>1678823612457</millis>
+  <nanos>634000</nanos>
+  <sequence>43</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 5, 6, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+<record>
+  <date>2023-03-14T19:53:32.457864Z</date>
+  <millis>1678823612457</millis>
+  <nanos>864000</nanos>
+  <sequence>44</sequence>
+  <logger>JavaHW2.Ex1</logger>
+  <level>INFO</level>
+  <class>JavaHW2.Ex1</class>
+  <method>BubbleSort</method>
+  <thread>1</thread>
+  <message>[2, 5, 6, 12, 15, 22, 23, 31, 34, 51]</message>
+</record>
+</log>
