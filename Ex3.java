@@ -22,7 +22,11 @@ public class Ex3 {
                 count--;
                 result = StepBack(num1, num2, tmp);
                 System.out.println("Результат: " + result);
-            } else {
+            }else if (operation == 'q'){
+                System.exit(0);
+
+            }
+            else {
                 count = 1;
                 tmp = operation;
                 num2 = getInt();
@@ -48,15 +52,22 @@ public class Ex3 {
 
 
     public static char getOperation(char tmp) {
-        System.out.println("Введите оператор или введите 'c' для отмены предыдущей операции: ");
+        System.out.println("1) Введите оператор " +
+                            "\n2) введите 'c' для отмены предыдущей операции: " +
+                            "\n3) введите 'q' для выхода: ");
         char operation;
         if (scan.hasNext()) {
             operation = scan.next().charAt(0);
             tmp = operation;
-        } else {
+        }
+
+         else {
             System.out.println("Введите оператор +-*/: ");
             scan.next();
             operation = getOperation(tmp);
+        }
+         if (operation == 'q'){
+            System.exit(0);
         }
         return operation;
     }
