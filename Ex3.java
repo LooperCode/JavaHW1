@@ -2,7 +2,7 @@ package JavaHW1;
 
 import java.util.Scanner;
 /* Написать пройстейший калькулятор. */
-/*UPD:// Добавить в него функцию отмены действия */
+/*UPD:// Добавить в него функцию отмены последней операции */
 public class Ex3 {
     static Scanner scan = new Scanner(System.in);
 
